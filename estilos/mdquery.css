@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1200px){
+    ul{
+        max-width: 900px;
+    }
+    nav a{
+        font-size: 1.5em;
+    }
+    .bigger-box{
+        max-width: 900px;
+    }
+    .cidade{
+        font-size: 2em;
+    }
+    .temp{
+        font-size: 2.3em;
+    }
+
+    .texto-previsão{
+        font-size: 1.4em;
+    }
+    .umidade{
+        font-size: 1.5em;
+    }
+}
