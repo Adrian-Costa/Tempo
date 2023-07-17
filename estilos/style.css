@@ -64,6 +64,9 @@ input{
     font-size: 1.1em;
     color: white;
 }
+::placeholder{
+    color: white;
+}
 .searcher{
     border: none;
     outline: none;
