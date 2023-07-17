@@ -33,7 +33,9 @@
     .temp{
         font-size: 2.7em;
     }
-
+    .previsão{
+        height: 90px;
+    }
     .texto-previsão{
         font-size: 2.4em;
     }
