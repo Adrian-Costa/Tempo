@@ -28,7 +28,7 @@ ul{
     list-style: none;
     display: flex;
     justify-content: center;
-    padding: 20px 7px 20px 7px;
+    padding: 30px 7px 30px 7px;
     width: 80vw;
     max-width: 550px;
 }
@@ -40,7 +40,10 @@ nav a{
     margin: 20px;
 }
 nav a:hover{
-    text-decoration: underline;
+    background-color: rgba(0, 0, 0, 0.688);
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+    margin: 10px;
 }
 .bigger-box{
     background-color: rgba(0, 0, 0, 0.595);
